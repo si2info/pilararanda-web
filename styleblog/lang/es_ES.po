@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Pilar Aranda\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: es\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid " page template has been successfully created"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid " page template has been updated"
+msgstr ""
+
+#. Text in function
+#: styleblog/single-info.php:5
+msgid "<i class=\"icon-tag-empty\"></i> "
+msgstr ""
+
+#. Text in function
+#: styleblog/comments.php:28
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/mag-authorinfo.php:2
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-300.php:61
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:681
+msgid "Add Page Template"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:681
+msgid "Add Template"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-ads-125.php:41
+msgid "Advertisement"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-404-content.php:19
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-300.php:74
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: styleblog/archive.php:24
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: styleblog/archive.php:28
+msgid "Author"
+msgstr "Autor"
+
+#. Text in echo
+#: styleblog/functions/aqua/view/view-builder-page.php:125
+msgid "Available Blocks"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-blogauthor.php:56
+msgid "Bio:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:674
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-404-content.php:11
+msgid "Categories"
+msgstr "Categorías"
+
+#. Text in echo
+#: styleblog/archive.php:9
+msgid "Category"
+msgstr "Categoría"
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:665
+msgid "Choose Your Page Template"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:703
+msgid "Comments (%)"
+msgstr "Comentarios (%)"
+
+#. Text in function
+#: styleblog/functions.php:703
+msgid "Comments (0)"
+msgstr "Comentarios (0)"
+
+#. Text in function
+#: styleblog/functions.php:703
+msgid "Comments (1)"
+msgstr "Comentarios (1)"
+
+#. Text in echo
+#: styleblog/comments.php:40
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados"
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:206
+msgid "Create Template"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:211
+msgid "Delete Template"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/view/view-builder-page.php:125
+msgid "Deleting"
+msgstr ""
+
+#. Text in echo
+#: styleblog/footer.php:47
+msgid "Designed by"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-twitter.php:1
+msgid "Display recent tweets"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:1
+msgid ""
+"Drag block items from the left into this area to begin building your "
+"template."
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/functions/aqpb_blocks.php:216
+msgid "Drag block items into this box"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:54
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:69
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:101
+msgid "Image 2 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:115
+msgid "Image 3 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:129
+msgid "Image 4 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:88
+msgid "Image URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-300.php:66
+msgid "Image Url:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:673
+msgid "Insert Template"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-tabs.php:5
+#: styleblog/functions/widgets/widget-tabs.php:40
+#: styleblog/functions/widgets/widget-flickr.php:75
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-300.php:70
+msgid "Link URL:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/blocks/aq-home-blog-infinite.php:88
+msgid "Load More Posts"
+msgstr ""
+
+#. Text in echo
+#: styleblog/header.php:93
+msgid "MENU"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:83
+msgid "Medium"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/view/view-builder-page.php:130
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#. Text in function
+#: styleblog/comments.php:29
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Text in echo
+#: styleblog/404.php:9 styleblog/template-404.php:14
+msgid "Nothing found here"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-comments.php:75
+msgid "Number of comments"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:58
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:1
+msgid "Page Builder"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-404-content.php:3
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: styleblog/single-content.php:42 styleblog/page.php:18
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: styleblog/404.php:13 styleblog/template-404.php:18
+msgid "Perhaps You will find something interesting from these lists..."
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:643
+msgid "Please select your template first!"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-tabs.php:6
+#: styleblog/functions/widgets/widget-tabs.php:39
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: styleblog/footer.php:46
+msgid "Powered by"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-tabs.php:7
+#: styleblog/functions/widgets/widget-flickr.php:76
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-blogauthor.php:64
+msgid "Read More Text (optional):"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-blogauthor.php:68
+msgid "Read More URL (optional):"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions.php:713
+msgid "Read article"
+msgstr "Seguir leyendo"
+
+#. Text in echo
+#: styleblog/includes/mag-relatedposts.php:1
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:206
+#: styleblog/functions/aqua/view/view-builder-page.php:266
+msgid "Save Template"
+msgstr ""
+
+#. Text in echo
+#: styleblog/search.php:8
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:80
+msgid "Size:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in echo
+#: styleblog/single-content.php:70 styleblog/page.php:35
+msgid "Sorry, no posts matched your criteria"
+msgstr "Lo sentimos, no hemos encontrado nada."
+
+#. Text in echo
+#: styleblog/search.php:33
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo sentimos, no hemos encontrado nada."
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid "Sorry, the operation was unsuccessful for the following reason(s): "
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:73
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:82
+msgid "Square"
+msgstr ""
+
+#. Text in echo
+#: styleblog/archive.php:33
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/uni-tabs.php:8
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:105
+msgid "Target 2 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:119
+msgid "Target 3 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:133
+msgid "Target 4 URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-125.php:92
+msgid "Target URL"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/view/view-builder-page.php:197
+msgid "Template Name"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid "The "
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:681
+msgid ""
+"The \\\"[template]\\\" shortcode already exists, possibly added by the theme "
+"or other plugins. Please consult with the theme author to consult with this "
+"issue"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:1
+msgid ""
+"The \\\"template\\\" post type already exists, possibly added by the theme "
+"or other plugins. Please consult with theme author to consult with this issue"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:1
+msgid "The template has been successfully deleted"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-ads-125.php:1
+msgid "Themnific - Ads 125px 4x"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-ads-300.php:1
+msgid "Themnific - Ads Widget 300px/Free"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-blogauthor.php:1
+msgid "Themnific - Blog Author Info"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-comments.php:1
+msgid "Themnific - Comments"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-flickr.php:1
+msgid "Themnific - Flickr"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/widgets/widget-social.php:1
+msgid "Themnific - Social Networks"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:681
+msgid "This template is empty"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:84
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-ads-300.php:57
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-social.php:36
+#: styleblog/functions/widgets/widget-comments.php:70
+#: styleblog/functions/widgets/widget-ads-125.php:79
+#: styleblog/functions/widgets/widget-blogauthor.php:52
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/view/view-builder-page.php:244
+msgid ""
+"To create a custom page template, give it a name above and click Create "
+"Template. Then choose blocks like text, widgets or tabs &amp; toggles from "
+"the left column to add to this template"
+msgstr ""
+
+#. Text in echo
+#: styleblog/includes/mag-rating.php:58
+msgid "Total Score "
+msgstr ""
+
+#. Text in echo
+#: styleblog/searchform.php:2
+msgid "Type and hit enter..."
+msgstr "Escribe y pulsa enter..."
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:66
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/blocks/aq-clear-block.php:42
+msgid ""
+"Use this block to clear the floats between two or more separate blocks "
+"vertically."
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-flickr.php:68
+msgid "User"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions.php:707
+msgid "Views"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/aqua/blocks/aq-ads-block.php:83
+#: styleblog/functions/widgets/widget-ads-125.php:35
+#: styleblog/functions/widgets/widget-ads-125.php:36
+#: styleblog/functions/widgets/widget-ads-125.php:38
+#: styleblog/functions/widgets/widget-ads-125.php:39
+msgid "Visit Sponsor"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/post-like/post-like.php:208
+msgid "You Like:"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:667
+msgid "You don\\'t have any template yet. Let\\'s %s create %s one!"
+msgstr ""
+
+#. Text in echo
+#: styleblog/functions/widgets/widget-blogauthor.php:60
+msgid "Your Image URL"
+msgstr ""
+
+#. Text in function
+#: styleblog/functions/aqua/classes/class-aq-page-builder.php:1
+msgid "aq-page-builder"
+msgstr ""
